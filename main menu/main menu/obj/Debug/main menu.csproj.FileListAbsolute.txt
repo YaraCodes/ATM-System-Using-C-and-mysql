@@ -1,0 +1,9 @@
+C:\Users\student.COMPLAB1NODE11\Documents\17ce41\main menu\main menu\bin\Debug\main menu.exe.config
+E:\atm system form\main menu\main menu\bin\Debug\main menu.exe.config
+E:\atm system form\main menu\main menu\bin\Debug\main menu.exe
+E:\atm system form\main menu\main menu\bin\Debug\main menu.pdb
+E:\atm system form\main menu\main menu\obj\Debug\main_menu.Form1.resources
+E:\atm system form\main menu\main menu\obj\Debug\main_menu.Properties.Resources.resources
+E:\atm system form\main menu\main menu\obj\Debug\main menu.csproj.GenerateResource.Cache
+E:\atm system form\main menu\main menu\obj\Debug\main menu.exe
+E:\atm system form\main menu\main menu\obj\Debug\main menu.pdb
